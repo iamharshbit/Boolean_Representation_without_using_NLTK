@@ -1,1 +1,3 @@
-# Boolean_Representation_without_using_NLTK
+Requirements: Jupyter Notebook or any other Python IDE.
+There are a few steps that are required to convert given documents into boolean representation. Read documents that are inside the corpus folder. Corpus is a collection of documents. Then one has to tokenized words. Tokenization is splitting words by space(' '). The next step is to apply case conversion. Case conversion is useful to reduce the number of words in the dictionary or vocabulary. Then one should apply stop words removal. Stop words are words that don't have any meaning. Stop words are prepositions, conjunctions and articles. I have made a list of stop words. To apply stemming I have used a customized dictionary. Dictionary consists of a word and its stem(root) form.
+Even one can use python libraries which make our work easy. But, through this code one can understand the real process which took place behind all the steps. 
